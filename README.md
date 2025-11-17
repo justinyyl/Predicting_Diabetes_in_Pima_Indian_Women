@@ -1,4 +1,4 @@
-# Predicting Diabetes in Pima Indian Women: Group 31 Final Project
+# Predicting Diabetes in Pima Indian Women
 
 This repository presents Group 31's final project, developed by Luna Gulec, Farrel Ramdhani, Josh Homen, and Yulin Yuan. The project focuses on **predicting the likelihood of diabetes** using logistic regression on health-related data, specifically targeting **Pima Indian women**, a population with historically high diabetes prevalence. Our goal is to identify the most statistically significant predictors of diabetes and assess how well these variables explain or predict the outcome.
 
